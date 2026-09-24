@@ -1,1 +1,1 @@
-# main-creative-coding-foundation-lessons
+# MAIND creative coding foundation lessons
